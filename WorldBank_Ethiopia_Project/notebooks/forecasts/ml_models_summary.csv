@@ -1,0 +1,4 @@
+indicator,best_model,best_model_file,best_rmse,persistence_rmse
+gdp_constant,LinearRegression,models/gdp_constant_LinearRegression.joblib,8036120056.955156,6007016185.198338
+gdp_per_capita,LinearRegression,models/gdp_per_capita_LinearRegression.joblib,24.0132674843529,34.90923461081361
+unemployment,LinearRegression,models/unemployment_LinearRegression.joblib,0.5659874131114133,0.4587212038451493
